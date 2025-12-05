@@ -1,0 +1,9 @@
+.gitignore
+# Ignore node_modules
+__pycache__/
+
+# Ignore Python cache files
+*.pyc
+*.pyo
+*.pyd
+.idea
